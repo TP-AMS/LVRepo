@@ -14,6 +14,7 @@
 		<Item Name="New Folder" Type="Folder">
 			<Item Name="sdfsdf.vi" Type="VI" URL="../sdfsdf.vi"/>
 		</Item>
+		<Item Name="New Folder (2)" Type="Folder"/>
 		<Item Name="test1.vi" Type="VI" URL="../test1.vi"/>
 		<Item Name="test2.vi" Type="VI" URL="../test2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
